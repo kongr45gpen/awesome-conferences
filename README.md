@@ -37,4 +37,4 @@ Tools responsible for event registration, scheduling and archival.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! If you have used or heard good words about an open-source tool useful for any kinds of events, feel free to [submit a Pull Request](https://github.com/kongr45gpen/awesome-conferences/pulls)!
