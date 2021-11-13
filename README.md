@@ -10,7 +10,7 @@
 - [Audience Interaction](#audience-interaction)
   - [Audience Response Systems](#audience-response-systems)
   - [Q&A](#qa)
-
+- [Guides](#guides)
 
 ## Event Organisation
 
@@ -30,6 +30,10 @@ Tools responsible for event registration, scheduling and archival.
 ### Q&A
 
 - [IndiQA](https://github.com/kongr45gpen/indiqa/)
+
+## Guides
+
+- [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
 
 ## Contribute
 
