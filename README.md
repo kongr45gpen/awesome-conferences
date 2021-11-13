@@ -10,6 +10,7 @@
 - [Audience Interaction](#audience-interaction)
   - [Audience Response Systems](#audience-response-systems)
   - [Q&A](#qa)
+- [Web Streaming](#web-streaming)
 - [Guides](#guides)
 
 ## Event Organisation
@@ -30,6 +31,24 @@ Tools responsible for event registration, scheduling and archival.
 ### Q&A
 
 - [IndiQA](https://github.com/kongr45gpen/indiqa/)
+
+## Web Streaming
+
+Everything you need to connect with speakers and/or participants across the globe.
+
+### Web Conferencing Platforms
+
+- [BigBlueButton](https://bigbluebutton.org/)
+- [Jitsi Meet](https://meet.jit.si/)
+- [Revolt](https://github.com/revoltchat)
+
+### Vision Mixers
+
+- [OBS Studio](https://github.com/revoltchat)
+
+### Video Calling
+
+- [VDO.Ninja](https://github.com/steveseguin/vdo.ninja)
 
 ## Guides
 
