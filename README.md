@@ -69,6 +69,7 @@ Everything you need to connect with speakers and/or participants across the glob
 ## Guides
 
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
+- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 
 ## Contribute
