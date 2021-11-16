@@ -11,6 +11,10 @@
   - [Audience Response Systems](#audience-response-systems)
   - [Q&A](#qa)
 - [Web Streaming](#web-streaming)
+  - [Web Conferencing Platforms](#web-conferencing-platforms)
+  - [Online Streaming](#online-streaming)
+  - [Vision Mixers](#vision-mixers)
+  - [Video Calling](#video-calling)
 - [Guides](#guides)
 
 ## Event Organisation
@@ -41,6 +45,16 @@ Everything you need to connect with speakers and/or participants across the glob
 - [BigBlueButton](https://bigbluebutton.org/)
 - [Jitsi Meet](https://meet.jit.si/)
 - [Revolt](https://github.com/revoltchat)
+
+### Online Streaming
+
+- [Open Streaming Platform](https://openstreamingplatform.com/)
+- [Owncast](https://owncast.online/)
+
+#### Media Streaming Servers
+
+- [MonaServer](https://github.com/MonaSolutions/MonaServer2)
+- [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module)
 
 ### Vision Mixers
 
