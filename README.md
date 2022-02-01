@@ -69,8 +69,9 @@ Everything you need to connect with speakers and/or participants across the glob
 
 ## Guides
 
-- [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
-- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [![Awesome](https://awesome.re/badge.svg) Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
+- [![Awesome](https://awesome.re/badge.svg) Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [![Awesome](https://awesome.re/badge.svg) Awesome NDI](https://github.com/florisporro/awesome-ndi) (Network Device Interface)
 - [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 - [Streaming with FFmpeg](https://trac.ffmpeg.org/wiki/StreamingGuide)
 
