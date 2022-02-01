@@ -56,6 +56,7 @@ Everything you need to connect with speakers and/or participants across the glob
 #### Media Streaming Servers
 
 - [MonaServer](https://github.com/MonaSolutions/MonaServer2)
+- [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2)
 - [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module)
 
 ### Vision Mixers
@@ -71,6 +72,7 @@ Everything you need to connect with speakers and/or participants across the glob
 - [Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
+- [Streaming with FFmpeg](https://trac.ffmpeg.org/wiki/StreamingGuide)
 
 ## Contribute
 
