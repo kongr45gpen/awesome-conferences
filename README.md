@@ -27,6 +27,7 @@ Tools responsible for event registration, scheduling and archival.
 ## Peer Review
 
 - [Review Board](https://www.reviewboard.org/)
+- [Open Journal Systems](https://pkp.sfu.ca/ojs/)
 
 ## Audience Interaction
 
