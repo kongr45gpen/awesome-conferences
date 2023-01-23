@@ -21,23 +21,23 @@
 
 Tools responsible for event registration, scheduling and archival.
 
-- [Indico](https://getindico.io/) by CERN :page_with_curl:
-- [Open Source Event Manager (OSEM)](https://osem.io/) :page_with_curl:
+- :page_with_curl: [Indico](https://getindico.io/) by CERN
+- :page_with_curl: [Open Source Event Manager (OSEM)](https://osem.io/)
 
 ## Peer Review
 
-- [Review Board](https://www.reviewboard.org/) :page_with_curl:
-- [Open Journal Systems](https://pkp.sfu.ca/ojs/) :page_with_curl:
+- :page_with_curl: [Review Board](https://www.reviewboard.org/)
+- :page_with_curl: [Open Journal Systems](https://pkp.sfu.ca/ojs/)
 
 ## Audience Interaction
 
 ### Audience Response Systems
 
-- [Particify](https://particify.de/) :page_with_curl:
+- :page_with_curl: [Particify](https://particify.de/)
 
 ### Q&A
 
-- [IndiQA](https://github.com/kongr45gpen/indiqa/) :page_with_curl:
+- :page_with_curl: [IndiQA](https://github.com/kongr45gpen/indiqa/)
 
 ## Web Streaming
 
@@ -45,28 +45,42 @@ Everything you need to connect with speakers and/or participants across the glob
 
 ### Web Conferencing Platforms
 
-- [BigBlueButton](https://bigbluebutton.org/) :page_with_curl:
-- [Jitsi Meet](https://meet.jit.si/) :page_with_curl:
-- [Revolt](https://github.com/revoltchat) :page_with_curl:
+- :page_with_curl: [BigBlueButton](https://bigbluebutton.org/)
+- :page_with_curl: [Jitsi Meet](https://meet.jit.si/)
+- :page_with_curl: [Revolt](https://github.com/revoltchat)
 
 ### Online Streaming
 
-- [Open Streaming Platform](https://openstreamingplatform.com/) :page_with_curl:
-- [Owncast](https://owncast.online/) :page_with_curl:
+- :page_with_curl: [Open Streaming Platform](https://openstreamingplatform.com/)
+- :page_with_curl: [Owncast](https://owncast.online/)
 
 #### Media Streaming Servers
 
-- [MonaServer](https://github.com/MonaSolutions/MonaServer2) :page_with_curl:
-- [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2) :page_with_curl:
-- [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module) :page_with_curl:
+- :page_with_curl: [MonaServer](https://github.com/MonaSolutions/MonaServer2)
+- :page_with_curl: [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2)
+- :page_with_curl: [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module)
 
 ### Vision Mixers
 
-- [OBS Studio](https://github.com/revoltchat) :page_with_curl:
+- :page_with_curl: [OBS Studio](https://github.com/revoltchat)
 
 ### Video Calling
 
-- [VDO.Ninja](https://github.com/steveseguin/vdo.ninja) :page_with_curl:
+- :page_with_curl: [VDO.Ninja](https://github.com/steveseguin/vdo.ninja)
+
+### Graphics/Lower Thirds
+
+Graphics tools allow showing live, real-time graphics in your live stream or to your presenters, and are
+usually easy to integrate with existing vision mixers.
+
+- :page_with_curl: [socialstream.ninja](https://github.com/steveseguin/social_stream) (live social messaging feeds)
+- :heavy_dollar_sign: [stagetimer.io](https://stagetimer.io/) (countdown timers)
+- :heavy_dollar_sign: [H2R Graphics](https://h2r.graphics/) (general production graphics, offline)
+- :heavy_dollar_sign: [gfx.live](https://gfx.live/) (general production graphics, online)
+
+### Utilities
+
+- :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/) (interactive dashboards)
 
 ## Guides
 
