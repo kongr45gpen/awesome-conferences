@@ -21,23 +21,23 @@
 
 Tools responsible for event registration, scheduling and archival.
 
-- [Indico](https://getindico.io/) by CERN
-- [Open Source Event Manager (OSEM)](https://osem.io/)
+- [Indico](https://getindico.io/) by CERN :page_with_curl:
+- [Open Source Event Manager (OSEM)](https://osem.io/) :page_with_curl:
 
 ## Peer Review
 
-- [Review Board](https://www.reviewboard.org/)
-- [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+- [Review Board](https://www.reviewboard.org/) :page_with_curl:
+- [Open Journal Systems](https://pkp.sfu.ca/ojs/) :page_with_curl:
 
 ## Audience Interaction
 
 ### Audience Response Systems
 
-- [Particify](https://particify.de/)
+- [Particify](https://particify.de/) :page_with_curl:
 
 ### Q&A
 
-- [IndiQA](https://github.com/kongr45gpen/indiqa/)
+- [IndiQA](https://github.com/kongr45gpen/indiqa/) :page_with_curl:
 
 ## Web Streaming
 
@@ -45,28 +45,28 @@ Everything you need to connect with speakers and/or participants across the glob
 
 ### Web Conferencing Platforms
 
-- [BigBlueButton](https://bigbluebutton.org/)
-- [Jitsi Meet](https://meet.jit.si/)
-- [Revolt](https://github.com/revoltchat)
+- [BigBlueButton](https://bigbluebutton.org/) :page_with_curl:
+- [Jitsi Meet](https://meet.jit.si/) :page_with_curl:
+- [Revolt](https://github.com/revoltchat) :page_with_curl:
 
 ### Online Streaming
 
-- [Open Streaming Platform](https://openstreamingplatform.com/)
-- [Owncast](https://owncast.online/)
+- [Open Streaming Platform](https://openstreamingplatform.com/) :page_with_curl:
+- [Owncast](https://owncast.online/) :page_with_curl:
 
 #### Media Streaming Servers
 
-- [MonaServer](https://github.com/MonaSolutions/MonaServer2)
-- [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2)
-- [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module)
+- [MonaServer](https://github.com/MonaSolutions/MonaServer2) :page_with_curl:
+- [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2) :page_with_curl:
+- [NGINX-rtmp](https://github.com/arut/nginx-rtmp-module) :page_with_curl:
 
 ### Vision Mixers
 
-- [OBS Studio](https://github.com/revoltchat)
+- [OBS Studio](https://github.com/revoltchat) :page_with_curl:
 
 ### Video Calling
 
-- [VDO.Ninja](https://github.com/steveseguin/vdo.ninja)
+- [VDO.Ninja](https://github.com/steveseguin/vdo.ninja) :page_with_curl:
 
 ## Guides
 
