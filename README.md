@@ -39,6 +39,11 @@ Tools responsible for event registration, scheduling and archival.
 
 - :page_with_curl: [IndiQA](https://github.com/kongr45gpen/indiqa/)
 
+## Volunteer Organisation
+
+- :page_with_curl: [COSCUP Volunteer](https://github.com/COSCUP/COSCUP-Volunteer)
+- :page_with_curl: [FOSDEM Volunteer Management](https://github.com/FOSDEM/volunteers)
+
 ## Web Streaming
 
 Everything you need to connect with speakers and/or participants across the globe.
