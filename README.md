@@ -89,7 +89,9 @@ usually easy to integrate with existing vision mixers.
 
 - :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/) (interactive dashboards)
 
-## Tools dedicated to real-time signage
+## Signage
+
+Tools dedicated to real-time signage.
 
 - :page_with_curl: [Anthias](https://github.com/Screenly/Anthias)
 - :page_with_curl: [Concerto](https://github.com/concerto/concerto)
