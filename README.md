@@ -85,6 +85,10 @@ usually easy to integrate with existing vision mixers.
 - :heavy_dollar_sign: [H2R Graphics](https://h2r.graphics/) (general production graphics, offline)
 - :heavy_dollar_sign: [gfx.live](https://gfx.live/) (general production graphics, online)
 
+### Playback
+
+- :page_with_curl: [CasparCG](https://github.com/CasparCG/)
+
 ### Utilities
 
 - :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/) (interactive dashboards)
