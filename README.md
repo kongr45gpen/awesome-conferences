@@ -25,11 +25,19 @@ Tools responsible for event registration, scheduling and archival.
 
 - :page_with_curl: [Indico](https://getindico.io/) by CERN
 - :page_with_curl: [Open Source Event Manager (OSEM)](https://osem.io/)
+- :page_with_curl: [Drupal Conference Organizing Distribution](https://www.drupal.org/project/cod)
+- :page_with_curl: [Open Event](https://github.com/fossasia/open-event)
+- :page_with_curl: [Mini-Conf](https://github.com/Mini-Conf/Mini-Conf)
+- :page_with_curl: [frab](https://github.com/frab/frab)
+- :page_with_curl: [OpenCFP](https://github.com/opencfp/opencfp)
+- :page_with_curl: [Pretalx](https://github.com/pretalx/pretalx)
+- :page_with_curl: [OpenConferenceWare](https://github.com/osbridge/openconferenceware)
 
 ## Peer Review
 
 - :page_with_curl: [Review Board](https://www.reviewboard.org/)
 - :page_with_curl: [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+- :page_with_curl: [HotCRP](https://github.com/kohler/hotcrp)
 
 ## Audience Interaction
 
@@ -40,6 +48,7 @@ Tools responsible for event registration, scheduling and archival.
 ### Q&A
 
 - :page_with_curl: [IndiQA](https://github.com/kongr45gpen/indiqa/)
+- :page_with_curl: [SpeakerChat](https://github.com/dabit3/speakerchat)
 
 ## Volunteer Organisation
 
@@ -106,14 +115,30 @@ usually easy to integrate with existing vision mixers.
 
 - :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/) (interactive dashboards)
 
-## Signage
+## Labelling things
 
-Tools dedicated to real-time signage.
+### Real-time signage
 
 - :page_with_curl: [Anthias](https://github.com/Screenly/Anthias)
 - :page_with_curl: [Concerto](https://github.com/concerto/concerto)
 - :page_with_curl: [piSignage](https://github.com/colloqi/piSignage)
 - :page_with_curl: [Xibo](https://github.com/xibosignage/xibo)
+
+### Attendee Badges
+
+- :page_with_curl: [Badgeyay](https://github.com/fossasia/badgeyay)
+- :page_with_curl: [Vrooje Conference Badges](https://github.com/vrooje/conference-badges)
+
+## Websites
+
+Useful pre-built template websites for your event.
+
+- :page_with_curl: [Zeppelin / GDG DevFest 2014](https://github.com/gdg-x/zeppelin)
+- :page_with_curl: [Hoverboard / GDG](https://github.com/gdg-x/hoverboard)
+
+## Legal
+
+- [anjuan/speaker-agreement](https://github.com/anjuan/speaker-agreement): Contract between event organisers and speakers
 
 ## Guides
 
@@ -121,8 +146,11 @@ Tools dedicated to real-time signage.
 - [![Awesome](https://awesome.re/badge.svg) Awesome Audio](https://github.com/DolbyIO/awesome-audio)
 - [![Awesome](https://awesome.re/badge.svg) Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [![Awesome](https://awesome.re/badge.svg) Awesome NDI](https://github.com/florisporro/awesome-ndi) (Network Device Interface)
+- [An improvised list of opensource conference management software](https://olea.org/diario/2017/10/27/opensource-conference-management-software.html)
 - [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 - [Streaming with FFmpeg](https://trac.ffmpeg.org/wiki/StreamingGuide)
+- [The Software Sustainability Institute's Event Organisation Guide (SSI-EOG)](https://event-organisation-guide.readthedocs.io/en/latest/index.html)
+- [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist)
 
 ## Contribute
 
