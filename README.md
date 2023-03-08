@@ -33,6 +33,14 @@ Tools responsible for event registration, scheduling and archival.
 - :page_with_curl: [Pretalx](https://github.com/pretalx/pretalx)
 - :page_with_curl: [OpenConferenceWare](https://github.com/osbridge/openconferenceware)
 
+## Ticketing
+
+Tools whose main focus is attendee registration and ticket issuance.
+
+- :page_with_curl: [Attendize](https://github.com/Attendize/Attendize)
+- :page_with_curl: [Pretix](https://github.com/pretix/pretix)
+- :page_with_curl: [Alf.io](https://github.com/alfio-event/alf.io)
+
 ## Peer Review
 
 - :page_with_curl: [Review Board](https://www.reviewboard.org/)
