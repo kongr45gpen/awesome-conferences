@@ -123,6 +123,7 @@ usually easy to integrate with existing vision mixers.
 ### Playback
 
 - :page_with_curl: [CasparCG](https://github.com/CasparCG/)
+  - :page_with_curl: [SuperConductor](https://github.com/SuperFlyTV/SuperConductor): A CasparCG client
 
 ### Utilities
 
