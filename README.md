@@ -6,6 +6,8 @@
 ## Contents
 
 - [Event Organisation](#event-organisation)
+- [Ticketing](#ticketing)
+- [Presentation Tools](#presentation-tools)
 - [Peer Review](#peer-review)
 - [Audience Interaction](#audience-interaction)
   - [Audience Response Systems](#audience-response-systems)
@@ -25,13 +27,13 @@
 Tools responsible for event registration, scheduling and archival.
 
 - :page_with_curl: [Indico](https://getindico.io/) by CERN
+- :page_with_curl: [Pretalx](https://github.com/pretalx/pretalx)
 - :page_with_curl: [Open Source Event Manager (OSEM)](https://osem.io/)
 - :page_with_curl: [Drupal Conference Organizing Distribution](https://www.drupal.org/project/cod)
 - :page_with_curl: [Open Event](https://github.com/fossasia/open-event)
 - :page_with_curl: [Mini-Conf](https://github.com/Mini-Conf/Mini-Conf)
 - :page_with_curl: [frab](https://github.com/frab/frab)
 - :page_with_curl: [OpenCFP](https://github.com/opencfp/opencfp)
-- :page_with_curl: [Pretalx](https://github.com/pretalx/pretalx)
 - :page_with_curl: [OpenConferenceWare](https://github.com/osbridge/openconferenceware)
 
 ## Ticketing
@@ -41,6 +43,19 @@ Tools whose main focus is attendee registration and ticket issuance.
 - :page_with_curl: [Attendize](https://github.com/Attendize/Attendize)
 - :page_with_curl: [Pretix](https://github.com/pretix/pretix)
 - :page_with_curl: [Alf.io](https://github.com/alfio-event/alf.io)
+
+## Presentation Tools
+
+Everyone's favourite software to make slide decks or fancy animations.
+
+- :page_with_curl: [Beamer](https://ctan.org/pkg/beamer?lang=en): LaTeX's most popular presentation template
+- :page_with_curl: [LibreOffice Impress](https://www.libreoffice.org/discover/impress/)
+- :page_with_curl: [Pympress](https://github.com/Cimbali/pympress): A convenient tool to properly present PDF files
+- :eyeglasses: [List of markdown presentation tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
+- :heavy_dollar_sign: [Microsoft Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+- :heavy_dollar_sign: [Apple Keynote](https://www.apple.com/in/keynote/)
+- :heavy_dollar_sign: [Google Slides](https://workspace.google.com/products/slides/)
+- :heavy_dollar_sign: [Canva](https://www.canva.com/presentations/)
 
 ## Peer Review
 
@@ -124,10 +139,14 @@ usually easy to integrate with existing vision mixers.
 
 - :page_with_curl: [CasparCG](https://github.com/CasparCG/)
   - :page_with_curl: [SuperConductor](https://github.com/SuperFlyTV/SuperConductor): A CasparCG client
+  - :heavy_dollar_sign: [Tapedeck](https://mintmediaservices.gumroad.com/l/tapedeck): A web-based CasparCG client
 
 ### Utilities
 
-- :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/) (interactive dashboards)
+- :page_with_curl: [Bitfocus Companion](https://bitfocus.io/companion): An action & integration controller designed around Elgato's Streamdeck
+- :page_with_curl: [Chataigne](https://benjamin.kuperberg.fr/chataigne/en): A modular interactive designer for art and technology
+- :page_with_curl: [TouchOSC](https://hexler.net/touchosc): A modular touch-based control surface
+- :heavy_dollar_sign: [Dashmaster 2K](https://dashmaster2k.com/): Interactive dashboards
 
 ## Labelling things
 
@@ -158,6 +177,8 @@ Useful pre-built template websites for your event.
 
 - [![Awesome](https://awesome.re/badge.svg) Awesome Conference Practices](https://github.com/kitze/awesome-conference-practices)
 - [![Awesome](https://awesome.re/badge.svg) Awesome Audio](https://github.com/DolbyIO/awesome-audio)
+- [![Awesome](https://awesome.re/badge.svg) Awesome Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
+- [![Awesome](https://awesome.re/badge.svg) Awesome Audiovisual](https://github.com/stingalleman/awesome-audiovisual)
 - [![Awesome](https://awesome.re/badge.svg) Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [![Awesome](https://awesome.re/badge.svg) Awesome NDI](https://github.com/florisporro/awesome-ndi) (Network Device Interface)
 - [An improvised list of opensource conference management software](https://olea.org/diario/2017/10/27/opensource-conference-management-software.html)
