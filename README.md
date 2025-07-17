@@ -105,7 +105,7 @@ A number of commonly available paid tools also support some of these features:
 - :heavy_dollar_sign: [Zoom Rooms](https://support.zoom.us/hc/en-us/articles/360061903532-Using-Network-Device-Interface-NDI-) (NDI)
 - :heavy_dollar_sign: [VideoCom Zoom Bridge](https://www.videocom.at/zoom-bridge) (NDI)
 - :heavy_dollar_sign: [Microsoft Teams](https://support.microsoft.com/en-us/office/broadcasting-audio-and-video-from-teams-with-ndi-and-sdi-technology-e91a0adb-96b9-4dca-a2cd-07181276afa3) (NDI)
-- :heavy_dollar_sign: [Skype](https://www.skype.com/en/content-creators/) (NDI)
+- :heavy_dollar_sign: [Webex](https://help.webex.com/en-us/article/olww7x/Stream-to-NDI-output-in-Webex-Meetings-and-Webex-Webinars) (NDI)
 - :heavy_dollar_sign: [Epiphan Connect](https://www.epiphan.com/connect/) (SRT)
 - :heavy_dollar_sign: [vMix Call](https://www.vmix.com/products/vmix-call.aspx)
 
